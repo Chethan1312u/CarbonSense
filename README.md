@@ -1,2 +1,2 @@
 # CarbonSense
-CarbonSense is an AI-powered sustainability companion that helps users track, understand, and reduce their carbon footprint. It combines personalized profiles, real-time tracking, eco-route mapping, and AI insights with gamified EcoPoints to make sustainable living practical, measurable, and rewarding.
+An app which makes us to know howmunch amount of co2 is produced by us and analyzing the trends and encouraging you and has an interactive  map
